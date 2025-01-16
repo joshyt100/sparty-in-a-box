@@ -1,0 +1,3 @@
+/Users/joshthomas/spartybox/project2-starter/cmake-build-debug/_deps/machinedemolib-subbuild/CMakeFiles/machinedemolib-populate.dir
+/Users/joshthomas/spartybox/project2-starter/cmake-build-debug/_deps/machinedemolib-subbuild/CMakeFiles/edit_cache.dir
+/Users/joshthomas/spartybox/project2-starter/cmake-build-debug/_deps/machinedemolib-subbuild/CMakeFiles/rebuild_cache.dir
